@@ -2,6 +2,13 @@
 
 The **Project Youtube Video Downloader** is a Windows application that allows users to download videos and audio from YouTube. The application provides a user-friendly interface and is packaged as an executable file for easy installation and usage.
 
+### Team Members
+
+|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/dd70cb8a-8d2f-44bd-90e9-d149585577ae" alt="Deeptangshu Dutta" width=100px></picture>|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/4da54fae-0e41-4393-91cb-f33de72fc036" alt="Jit Kumar Naskar" width=100px></picture>|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/fbd9c051-c36c-46cf-bda7-21138027936b" alt="Arnab Kumar Pati" width=100px></picture>|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/42dc7668-0fa8-48db-a723-bb9d5d47e0d5" alt="Snehashis Bhowmik" width=100px></picture>|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/9ca49599-d196-4b49-925b-d334ac51c00d" alt="Soumi Das" width=100px></picture>|
+|:--:|:--:|:--:|:--:|:--:|
+|[Deeptangshu Dutta](https://github.com/deeptangshu29)|[Jit Kumar Naskar](https://github.com/JitKrNaskar)|[Arnab Kumar Pati](https://github.com/arnab22pati)|[Snehashis Bhowmik](https://github.com/snehashis44)|[Soumi Das](https://github.com/Soumi-Das)|
+
+
 ## Features
 - Download videos and audio from YouTube.
 - User-friendly interface for entering YouTube video URLs and selecting download options.
@@ -64,7 +71,7 @@ To install and use the **Youtube Video Downloader** on Windows:
     ```
 
 
-> #### Disclaimer 
+#### Disclaimer 
 > ###### Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
 > ###### If the software is not working properly that may occur due lack of maintainance or bugs present in the current version of [`pytube`](https://github.com/pytube/pytube/issues).
 
