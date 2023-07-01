@@ -64,8 +64,9 @@ To install and use the **Youtube Video Downloader** on Windows:
     ```
 
 
-#### Disclaimer 
-###### Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
+> #### Disclaimer 
+> ###### Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
+> ###### If the software is not working properly that may occur due lack of maintainance or bugs present in the current version of [`pytube`](https://github.com/pytube/pytube/issues).
 
 ---
 <p align="center">
