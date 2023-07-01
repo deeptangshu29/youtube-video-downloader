@@ -32,11 +32,11 @@ The application utilizes the following Python libraries:
 |`send2trash`| for sending files to the trash instead of permanent deletion|
 
 ## Installation
-To install and use the **Project Youtube Video Downloader** on Windows:
+To install and use the **Youtube Video Downloader** on Windows:
 1. Download the executable file from the Releases.
 2. Double-click the downloaded `.exe` file to start the installation process.
 3. Follow the on-screen instructions to complete the installation.
-4. Once installed, you can launch the application by double-clicking the shortcut created on your desktop or by searching for it in the Start menu.
+4. Once installed, you can launch the application from the `Installation Location`.
 
 ## Usage
 1. Launch the **Project Youtube Video Downloader** application.
@@ -48,11 +48,26 @@ To install and use the **Project Youtube Video Downloader** on Windows:
 7. Monitor the download progress using the progress bar and percentage label.
 8. Once the download is complete, the video or audio file will be saved in the specified destination folder.
 
----
+
+## Running using Terminal
+- Clone the repository from GitHub:
+    ```console
+    git clone "https://github.com/deeptangshu29/youtube-video-downloader.git"
+    ```
+- Install the required dependencies:
+    ```console
+    pip install -r requirements.txt
+    ```
+- Run the application:
+    ```console
+    python youtube_downloader.pyw
+    ```
+
+
 #### Disclaimer 
 ###### Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
 
 ---
 <p align="center">
-  Enjoy downloading your favorite videos and audio from YouTube with ease using the <b>Project Youtube Video Downloader</b>!
+  <i>Enjoy downloading your favorite videos and audio from YouTube with ease using the <b>Youtube Video Downloader</b>!</i>
 </p>
