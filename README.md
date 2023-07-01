@@ -44,7 +44,7 @@ The application utilizes the following Python libraries:
 |`urllib.request`| for opening URLs to fetch video thumbnails|
 |`pytube`| for downloading YouTube videos and extracting audio|
 |`PIL` _(Python Imaging Library)_| for image processing and displaying video thumbnails|
-|`base64`, `os`, `threading`, `io`| for utility functions and operations|
+|`os`, `threading`, `io`| for utility functions and operations|
 |`pathlib`| for manipulating file paths|
 |`send2trash`| for sending files to the trash instead of permanent deletion|
 
@@ -81,7 +81,7 @@ To install and use the **Youtube Video Downloader** on Windows:
 6. Click the "Download" button to start the download process.
 7. Monitor the download progress using the progress bar and percentage label.
 8. Once the download is complete, the video or audio file will be saved in the specified destination folder.
-> For more detailed information check [this](https://github.com/deeptangshu29/youtube-video-downloader/README.md#some-screenchots-refern_1)
+> For more detailed information check [this](#some-screenshots)
 
 <br />
 <br />
@@ -105,7 +105,7 @@ To install and use the **Youtube Video Downloader** on Windows:
 <br />
 
 
-# Some Screenchots
+# Some Screenshots
 > Click 🖱️ or Tap 👆 for enlarged version
 ## Video Downloading Process
 |**Step 1**|**Step 2**|
@@ -138,6 +138,7 @@ To install and use the **Youtube Video Downloader** on Windows:
 <br />
 
 > Click 🖱️ or Tap 👆 for enlarged version
+
 ## Audio Downloading Process
 |**Step 1**|**Step 2**|
 |:--:|:--:|
@@ -154,7 +155,10 @@ To install and use the **Youtube Video Downloader** on Windows:
 |Downloaded Audio file can be streamed|
 
 
-
+<br />
+<br />
+<br />
+<br />
 
 
 <h4 align="center">Disclaimer</h6>
