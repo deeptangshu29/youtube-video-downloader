@@ -48,6 +48,11 @@ To install and use the **Project Youtube Video Downloader** on Windows:
 7. Monitor the download progress using the progress bar and percentage label.
 8. Once the download is complete, the video or audio file will be saved in the specified destination folder.
 
-Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
+---
+#### Disclaimer 
+###### Please note that the **Project Youtube Video Downloader** is specifically designed for Windows and may not be compatible with other operating systems.
 
-Enjoy downloading your favorite videos and audio from YouTube with ease using the **Project Youtube Video Downloader**!
+---
+<p align="center">
+  Enjoy downloading your favorite videos and audio from YouTube with ease using the <b>Project Youtube Video Downloader</b>!
+</p>
