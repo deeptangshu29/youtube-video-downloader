@@ -63,7 +63,7 @@ def get():
 	chunk_size = 1024
 
 	#DISPLAYING TITLE
-	url=urlbox.get()		#--------------------------------------------------------
+	url=urlbox.get()
 	try:
 		yt=YouTube(url)
 		title=yt.title
