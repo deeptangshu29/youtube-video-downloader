@@ -3,8 +3,9 @@
 The **Project Youtube Video Downloader** is a Windows application that allows users to download videos and audio from YouTube. The application provides a user-friendly interface and is packaged as an executable file for easy installation and usage.
 
 
+
 ### Team Members
-<picture><img src="" /></picture>
+<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/eaad8d5d-f249-4fb2-9b18-ec248d19fe1f" /></picture>
 
 <br />
 <br />
