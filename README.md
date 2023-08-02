@@ -49,12 +49,15 @@ The application utilizes the following Python libraries:
 <br />
 
 ## Installation
-To install and use the **Youtube Video Downloader** on Windows:
-1. Download the executable file from the Releases.
-2. Double-click the downloaded `.exe` file to start the installation process.
-3. Follow the on-screen instructions to complete the installation.
-4. Once installed, you can launch the application from the `Installation Location`.
-   ### Installation Intruction
+<p align = "center">
+<picture>
+<img  src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/fc5d26ce-eb04-4428-a4a2-cb19efaf32ad" 
+  alt="Installation Process"/>
+</picture>
+</p>
+
+
+### Installation Intruction
    - You may recieve the following warning while installing or on the first run of the application
      |<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/88f5bbc3-a121-4a51-9c3c-cb50201def85" alt="warning-page-1"></picture>|<picture><img src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/10ed242b-656a-4ac1-875b-051791db8eda" alt="warning-page-2"></picture>|
      |:--:|:--:|
@@ -116,21 +119,13 @@ To install and use the **Youtube Video Downloader** on Windows:
 
 
 # Some Screenshots
-> Click 🖱️ or Tap 👆 for enlarged version
 ## Audio Downloading Process
-|**Step 1**|**Step 2**|
-|:--:|:--:|
-|![Select Get Audio to process the link](https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/da9b3567-98f7-44cb-8a4d-9b6d8288a870)|![Now Click Download to start downloading](https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/54c2fa4e-b10c-42ac-bc02-20177b1ae5f8)|
-|Select Get Audio to process the link|Now Click Download to start downloading|
-| | |
-|**Step 3**|**Step 4**|
-|![Now Checking the File Size and clicking Yes to start download](https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/48c8b370-b6ce-4747-96f3-96971ffee61a)|![Download has been completed successfully and is ready for streaming or sharing](https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/6f6974ce-ff69-43f3-8fe8-26a9a5ab62d9)|
-|Now Checking the File Size and clicking Yes to start download|Download has been completed successfully and is ready for streaming or sharing|
-
-|Step 5|
-|:--:|
-|![Downloaded Audio file can be streamed](https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/99790121-473e-416d-a602-ff354b1e6e77)|
-|Downloaded Audio file can be streamed|
+<p align = "center">
+<picture>
+<img  src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/a001cba6-9feb-4774-a88a-f642b20172e4" 
+  alt="Audio Downloading Process"/>
+</picture>
+</p>
 
 
 <br />
