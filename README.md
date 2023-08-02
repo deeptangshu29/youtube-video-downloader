@@ -105,7 +105,7 @@ To install and use the **Youtube Video Downloader** on Windows:
 ## Video Downloading Process
 
 <picture>
-  <img width=70% height="auto" src="https://imgur.com/J5ZB8G1" alt="hkj" />
+  <img width=70% height="auto" src="" alt="hkj" />
 </picture>
 
 <br />
@@ -139,8 +139,8 @@ To install and use the **Youtube Video Downloader** on Windows:
 <h4 align="center">Disclaimer</h6>
 
 - Please note that the Project: Youtube Video Downloader is specifically designed for Windows and may not be compatible with other operating systems.
-- If the software is not working properly that may occur due lack of maintainance or bugs present in the current version of [`pytube`](https://github.com/pytube/pytube/issues).
-- This is a College Project affiliated to [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/), West Bengal India for the subject Software Engineering
+- If the software is not working properly, that may occur due to a lack of maintenance or bugs in the current version of [`pytube`](https://github.com/pytube/pytube/issues).
+- This is a College Project affiliated with [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/), West Bengal India for the subject Software Engineering
 
 
 <br />
