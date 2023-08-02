@@ -103,8 +103,12 @@ To install and use the **Youtube Video Downloader** on Windows:
 
 
 ## Video Downloading Process
-
-<a href="#"><img  src="https://camo.githubusercontent.com/ebc2f49664a5fa243e6b11a7f3c8d5e0cf6263222a6dee6ea5bf056606d99d94/68747470733a2f2f696d61676575706c6f61642e696f2f69622f695a4b52584b5959747965335262465f313639303939383731342e676966" alt="v-min.gif"/></a>
+<p align = "center">
+<picture>
+<img  src="https://github.com/deeptangshu29/youtube-video-downloader/assets/74810289/2ec8dfee-f90b-4727-a245-150713db724e" 
+  alt="Video Downloading Process"/>
+</picture>
+</p>
 
 
 <br />
