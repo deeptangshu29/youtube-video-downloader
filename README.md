@@ -105,6 +105,9 @@ The application utilizes the following Python libraries:
 <br />
 
 
+# Tutorials
+
+
 ## Video Downloading Process
 <p align = "center">
 <picture>
@@ -118,7 +121,6 @@ The application utilizes the following Python libraries:
 <br />
 
 
-# Tutorials
 ## Audio Downloading Process
 <p align = "center">
 <picture>
