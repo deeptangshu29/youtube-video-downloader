@@ -81,7 +81,7 @@ The application utilizes the following Python libraries:
 6. Click the "Download" button to start the download process.
 7. Monitor the download progress using the progress bar and percentage label.
 8. Once the download is complete, the video or audio file will be saved in the specified destination folder.
-> For more detailed information check [this](#some-screenshots)
+> For more detailed information check [this](#tutorials)
 
 <br />
 <br />
@@ -118,7 +118,7 @@ The application utilizes the following Python libraries:
 <br />
 
 
-# Some Screenshots
+# Tutorials
 ## Audio Downloading Process
 <p align = "center">
 <picture>
@@ -133,14 +133,18 @@ The application utilizes the following Python libraries:
 <br />
 <br />
 
-
-<h4 align="center">Disclaimer</h6>
-
-- Please note that the Project: Youtube Video Downloader is specifically designed for Windows and may not be compatible with other operating systems.
-- If the software is not working properly, that may occur due to a lack of maintenance or bugs in the current version of [`pytube`](https://github.com/pytube/pytube/issues).
-- This is a College Project affiliated with [Maulana Abul Kalam Azad University of Technology](https://makautwb.ac.in/), West Bengal India for the subject Software Engineering
-
-
+<pre>
+<h2 align="center">Disclaimer</h2>
+<ul align="center">
+<li> Please note that the <b>Software: Youtube Video Downloader</b> is specifically designed for Windows 
+  and may not be compatible with other operating systems but the <b>project code may or can be 
+  executed in different operating systems</b> though proper working is not guaranteed. </li>
+<li> If the software is not working properly, that may occur due to a lack of maintenance or bugs 
+  in the current version of <a href="https://github.com/pytube/pytube/issues">pytube</a></li>
+<li>This is a College Project affiliated with <a href="https://makautwb.ac.in/">Maulana Abul Kalam Azad University of Technology</a>, West Bengal India 
+  for the subject Software Engineering</li>
+</pre>
+<ul></ul>
 <br />
 <br />
 
