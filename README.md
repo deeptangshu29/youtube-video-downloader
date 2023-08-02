@@ -97,7 +97,7 @@ The application utilizes the following Python libraries:
     ```
 - Run the application:
     ```console
-    python youtube_downloader.pyw
+    python main.pyw
     ```
 
 
