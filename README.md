@@ -145,7 +145,7 @@ The application utilizes the following Python libraries:
   in the current version of <a href="https://github.com/pytube/pytube/issues">pytube</a></li>
 <li> The Name Torpid Tech is just for the sake of being fancy and does not 
   resemble any organization and the presence of any such organisation is a pure coincidence. 
-  We do not hold any copyright or trademark over the name Topid Tech</li>
+  We do not hold any copyright or trademark over the name Torpid Tech</li>
 <li>This is a College Project affiliated with <a href="https://makautwb.ac.in/">Maulana Abul Kalam Azad University of Technology</a>, West Bengal India 
   for the subject Software Engineering</li>
 </pre>
